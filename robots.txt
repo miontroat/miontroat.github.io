@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://miontroat.github.io/sitemap.html.gz
+Sitemap: https://miontroat.github.io/app/sitemap.html.gz
+Sitemap: https://miontroat.github.io/assets/sitemap.html.gz
+Sitemap: https://miontroat.github.io/css/sitemap.html.gz
+Sitemap: https://miontroat.github.io/data/sitemap.html.gz
+Sitemap: https://miontroat.github.io/includes/sitemap.html.gz
+Sitemap: https://miontroat.github.io/item/sitemap.html.gz
+Sitemap: https://miontroat.github.io/src/sitemap.html.gz
